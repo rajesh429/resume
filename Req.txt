@@ -1,0 +1,25 @@
+The Sr. Systems Engineer will be responsible for product development with next generation Atheros WLAN and BT chipsets as an individual contributor. 
+In this role, the Sr. Systems Engineer will engage with Algorithms, Analog, and Digital design teams to define the relevant ASIC performance metrics needed to design complete HW/SW reference designs for Atheros customers in the mobile and computing market segments. 
+The role also involves hands-on characterization and debug of IP-layer performance using these reference designs internally and on customer platforms. 
+This role also includes managing external outsourcing projects to deliver reference board in a fast and efficient manner. 
+Finally, the Sr. Systems Engineer will be expected to provide product related technical support, training, and documentation. 
+
+Additional responsibilities include:
+- Hands-on ownership of optimal wireless system parameters and configurations as well as debug of any performance bottlenecks 
+- Participate in definition and specification of system architectures 
+- Review of test coverage for silicon characterization, board-level reference design characterization, and software performance testing 
+- System level analysis of customer designs 
+- Provide technical assistance to customer engineering and production personnel related to the use and application of products 
+- Work with technical writers to generate support material such as application notes, datasheets, and FAQs
+Skills/Experience		- 5 years minimum of industry experience (10 years preferred)
+- Highly experienced engineer, hands-on capabilities.
+- Self-driven individual who can plan/coordinate with teams globally and execute projects independently.
+- Extensive development integration verification and test experience including high speed digital and analog design
+- Understanding of system level performance issues
+- Experience in analog (RF) and digital integration 
+- Experience in board level design 
+- General knowledge of industry standards and analog and digital design techniques 
+- Working knowledge and design experience with embedded systems, firmware, development tools, microcontrollers, digital signal processing, mixed signal, analog, and power management.
+Education Requirements		Required: Master's, Electrical Engineering
+Preferred: Doctorate, Electrical Engineering
+
